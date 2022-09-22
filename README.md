@@ -2,7 +2,9 @@
 # goodREADMEGen
 
 ## Description
-Best readme generator around
+This node.js based command line app will generator an organized README via prompts asked to the user when run. Witness the following lengthy gif for a demo.
+
+![A really long gif](./assets/longREADME.gif)
 ## Table of contents
 * [Installation](#installation)
 * [Usage](#usage)
