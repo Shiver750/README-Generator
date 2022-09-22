@@ -18,6 +18,7 @@ To install necessary dependencies, run the following command:
 ```
 npm i
 ```
+Make sure to include 'output' folder in root folder.
 ## Usage
 Read the README
 ## License 
